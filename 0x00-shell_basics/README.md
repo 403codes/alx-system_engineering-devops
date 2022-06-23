@@ -44,3 +44,20 @@ Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be c
 
 14-copy_html
 Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
+15-lets_move
+Moves all the files strting with an uppercase letter to the /tmp/u directory. It is assumed the /tmp/u directory already exists.
+
+16-clean_emacs
+Deletes all files in the current working directory that end with the tilde(~) character.
+
+17-tree
+Creates the directories: - welcome - welcome/to - welcome/to/school using one command.
+
+18-commas
+Display a list of the current directories files and directories, including files that begin with a period character.
+
+19-school.mgc
+A magic file to be used with 'file' command to detect School files. School files contain the string 'SCHOOL' at offset 0.
+
+
