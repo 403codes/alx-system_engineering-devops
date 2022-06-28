@@ -1,3 +1,4 @@
-#!/bin/bash
-ls -1RA | grep ^d | wc -1
+ 
+#!/bin/bash 
+ls -lRA | grep ^d | wc -l
 
